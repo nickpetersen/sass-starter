@@ -1,9 +1,10 @@
 {
-  "name": "twigdemo",
+  "name": "sass-starter",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/rjnay1984/twig-wordpress-template",
-  "author": "<rjnay1984@gmail.com>",
+  "repository": "https://github.com/nickpetersen/sass-starter.git",
+  "author": "<nick@nickpetersen.co>",
+  "description": "Modified sass build from https://github.com/rjnay1984/twig-wordpress-template. Integrates with Timber Starter Theme, modify assets directory for Craft CMS projects",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.2.2",
